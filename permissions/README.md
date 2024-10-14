@@ -1,6 +1,10 @@
 # Permissions
 This is the Shell lesson for Permissions.
 
+# Contents:
+- [Overview](#Overview)
+- [Usage](#Usage)
+
 ## Overview
 The following scripts are contained
 
