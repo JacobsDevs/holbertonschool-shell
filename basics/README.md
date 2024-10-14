@@ -53,7 +53,7 @@ copies all .html files to the parent directory with **cp -n \*.html ..**
 moves all uppercase files to /tmp/u with **mv [[:upper:]]\* /tmp/u**
 
 ### 16-clean_emacs:
-removes all files creates by Emacs (ending in ~) with **rm *\~ **
+removes all files creates by Emacs (ending in ~) with <b>rm *~<b>
 
 ### 17-tree:
 make directories that don't already have parents with **mkdir -p welcome/to/school**
