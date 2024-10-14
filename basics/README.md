@@ -11,7 +11,7 @@ prints the absolute path of the current working directory with **pwd**
 prints the current directories contents with **ls**
 
 ### 2-bring_me_home:
-changes the working directory to user home with **cd ~**
+changes the working directory to user home with **cd \~**
 
 ### 3-listfiles:
 prints the current directories contents in long format with **ls -l**
@@ -44,16 +44,16 @@ prints the content of the current, parent and /boot directories in long format i
 prints the file type of the file /tmp/iamafile with **file /tmp/iamafile**
 
 ### 13-symbolic_link:
-creates a symbolic link between /bin/ls and \__ls__ with **ln -s /bin/ls \__ls__**
+creates a symbolic link between /bin/ls and \_\_ls__ with **ln -s /bin/ls \_\_ls__**
 
 ### 14-copy_html:
-copies all .html files to the parent directory with **cp -n *.html ..**
+copies all .html files to the parent directory with **cp -n \*.html ..**
 
 ### 15-lets_move:
-moves all uppercase files to /tmp/u with **mv [[:upper:]]* /tmp/u**
+moves all uppercase files to /tmp/u with **mv [[:upper:]]\* /tmp/u**
 
 ### 16-clean_emacs:
-removes all files creates by Emavs (ending in ~) with **rm *~**
+removes all files creates by Emavs (ending in ~) with **rm \*\~ **
 
 ### 17-tree:
 make directories that don't already have parents with **mkdir -p welcome/to/school**
