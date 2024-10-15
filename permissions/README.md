@@ -60,4 +60,4 @@ change the owner and group of \_hello to vincent and staff respectively noting t
 change the owner of the file hello to vincent only if it's currently owned by guillaume with **chown --from=guillaume vincent hello**
 
 ## Usage
-ll of these scripts can be run with ./ followed by the scripts name. e.g. ./0-iam_betty
+all of these scripts can be run with ./ followed by the scripts name. e.g. ./0-iam_betty
