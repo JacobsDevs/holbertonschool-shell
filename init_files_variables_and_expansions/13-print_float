@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $NUM.00 |  cut -d. -f2 | echo $NUM.$(cut -c1-2) | cut -d. -f1,3
+echo $NUM.00 |  cut -d. -f2 | echo $NUM.00.$(cut -c1-2) | cut -d. -f1,3
